@@ -1,0 +1,7 @@
+.idea
+.vscode
+.settings
+.project
+.buildpath
+runtime
+public/static
